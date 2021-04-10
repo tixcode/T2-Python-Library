@@ -25,6 +25,4 @@ With `import t2` we import the library itself, this is mandatory, and a second l
 
 `window.start` - Start the window, if you want the window to appear at all, be sure to use this method at the **end** of the code.
 
-####*If it doesn't say anything about any method here, you can search for it in the `t2.py` file!
-
-Translated with www.DeepL.com/Translator (free version)
+#### If it doesn't say anything about any method here, you can search for it in the `t2.py` file!
